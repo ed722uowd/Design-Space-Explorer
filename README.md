@@ -6,7 +6,7 @@ This project performs design space exploration by evaluating various pragma attr
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 ├── main_script.py              # Main script to run
@@ -22,7 +22,7 @@ This project performs design space exploration by evaluating various pragma attr
 
 ---
 
-## 🧱 Requirements
+## Requirements
 
 * Python 3.6+
 * Optional: CyberWorkBench (if doing full synthesis)
@@ -34,15 +34,15 @@ This project performs design space exploration by evaluating various pragma attr
 
 ---
 
-## 🧪 Setup Instructions
+## Setup Instructions
 
-### ✅ 1. Create Virtual Environment
+### 1. Create Virtual Environment
 
 ```bash
 python3 -m venv myenv
 ```
 
-### ✅ 2. Activate Virtual Environment
+### 2. Activate Virtual Environment
 
 * On **Linux/macOS**:
 
@@ -55,7 +55,7 @@ python3 -m venv myenv
   myenv\Scripts\activate
   ```
 
-### ✅ 3. Install Required Libraries
+### 3. Install Required Libraries
 
 ```bash
 pip install -r requirements.txt
@@ -71,7 +71,7 @@ numpy
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### Option 1: Without CyberWorkBench
 
@@ -139,7 +139,7 @@ This will:
 
 ---
 
-## 📈 Output
+## Output
 
 * A **scatter plot** showing all designs and Pareto-optimal points (ALUTs vs Latency).
 * CSV files named:
