@@ -1,0 +1,17 @@
+,0,1,2,3,4
+67,#define ATTR1 Cyber array = REG ,#define ATTR2 Cyber array = REG ,#define ATTR3 Cyber array = REG ,#define ATTR4 Cyber unroll_times = all ,#define ATTR5 Cyber unroll_times = all 
+71,#define ATTR1 Cyber array = REG ,#define ATTR2 Cyber array = REG ,"#define ATTR3 Cyber array = EXPAND,array_index=const ",#define ATTR4 Cyber unroll_times = all ,#define ATTR5 Cyber unroll_times = all 
+75,#define ATTR1 Cyber array = REG ,#define ATTR2 Cyber array = REG ,#define ATTR3 Cyber array = ROM ,#define ATTR4 Cyber unroll_times = all ,#define ATTR5 Cyber unroll_times = all 
+79,#define ATTR1 Cyber array = REG ,#define ATTR2 Cyber array = REG ,#define ATTR3 Cyber array = LOGIC ,#define ATTR4 Cyber unroll_times = all ,#define ATTR5 Cyber unroll_times = all 
+83,#define ATTR1 Cyber array = REG ,"#define ATTR2 Cyber array = EXPAND,array_index=const ",#define ATTR3 Cyber array = REG ,#define ATTR4 Cyber unroll_times = all ,#define ATTR5 Cyber unroll_times = all 
+87,#define ATTR1 Cyber array = REG ,"#define ATTR2 Cyber array = EXPAND,array_index=const ","#define ATTR3 Cyber array = EXPAND,array_index=const ",#define ATTR4 Cyber unroll_times = all ,#define ATTR5 Cyber unroll_times = all 
+91,#define ATTR1 Cyber array = REG ,"#define ATTR2 Cyber array = EXPAND,array_index=const ",#define ATTR3 Cyber array = ROM ,#define ATTR4 Cyber unroll_times = all ,#define ATTR5 Cyber unroll_times = all 
+95,#define ATTR1 Cyber array = REG ,"#define ATTR2 Cyber array = EXPAND,array_index=const ",#define ATTR3 Cyber array = LOGIC ,#define ATTR4 Cyber unroll_times = all ,#define ATTR5 Cyber unroll_times = all 
+99,#define ATTR1 Cyber array = REG ,#define ATTR2 Cyber array = ROM ,#define ATTR3 Cyber array = REG ,#define ATTR4 Cyber unroll_times = all ,#define ATTR5 Cyber unroll_times = all 
+103,#define ATTR1 Cyber array = REG ,#define ATTR2 Cyber array = ROM ,"#define ATTR3 Cyber array = EXPAND,array_index=const ",#define ATTR4 Cyber unroll_times = all ,#define ATTR5 Cyber unroll_times = all 
+107,#define ATTR1 Cyber array = REG ,#define ATTR2 Cyber array = ROM ,#define ATTR3 Cyber array = ROM ,#define ATTR4 Cyber unroll_times = all ,#define ATTR5 Cyber unroll_times = all 
+111,#define ATTR1 Cyber array = REG ,#define ATTR2 Cyber array = ROM ,#define ATTR3 Cyber array = LOGIC ,#define ATTR4 Cyber unroll_times = all ,#define ATTR5 Cyber unroll_times = all 
+115,#define ATTR1 Cyber array = REG ,#define ATTR2 Cyber array = LOGIC ,#define ATTR3 Cyber array = REG ,#define ATTR4 Cyber unroll_times = all ,#define ATTR5 Cyber unroll_times = all 
+119,#define ATTR1 Cyber array = REG ,#define ATTR2 Cyber array = LOGIC ,"#define ATTR3 Cyber array = EXPAND,array_index=const ",#define ATTR4 Cyber unroll_times = all ,#define ATTR5 Cyber unroll_times = all 
+123,#define ATTR1 Cyber array = REG ,#define ATTR2 Cyber array = LOGIC ,#define ATTR3 Cyber array = ROM ,#define ATTR4 Cyber unroll_times = all ,#define ATTR5 Cyber unroll_times = all 
+127,#define ATTR1 Cyber array = REG ,#define ATTR2 Cyber array = LOGIC ,#define ATTR3 Cyber array = LOGIC ,#define ATTR4 Cyber unroll_times = all ,#define ATTR5 Cyber unroll_times = all 
