@@ -152,7 +152,7 @@ This will:
 
 ---
 
-## 🛠 Notes
+## Notes
 
 * Make sure `lib_sobel.info` is correctly formatted with attribute lines starting with `A` followed by numbers.
 * If using CyberWorkBench, make sure `sobel.c` is compatible and synthesis tools are in your path.
