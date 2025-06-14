@@ -156,6 +156,10 @@ This will:
 
 * Make sure `lib_sobel.info` is correctly formatted with attribute lines starting with `A` followed by numbers.
 * If using CyberWorkBench, make sure `sobel.c` is compatible and synthesis tools are in your path.
+  * If using CyberWorkBench, you need the `sobel.c` code with the required pragmas placed across the code read from `attrs.h`.
+  * You will also need the .FLIB and .BLIB files.
+* The code repository does'nt include the pragma version of `sobel.c` as the code is propriertory
+* The code above gives an idea of how a Design Space explorer works trying all combinations exhastively.
 
 ---
 
